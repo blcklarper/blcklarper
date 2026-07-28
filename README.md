@@ -1,7 +1,7 @@
 # yo im blck
 im a new dev, currently learning C
 ## my socials : 
-@lasciato and @sui_dal on discord
+@lasciato or @sui_dal on discord
 
 ## top languages : 
 ![Top Langs](https://github-readme-stats-three-green-63.vercel.app/api/top-langs/?username=blcklarper&layout=compact&hide_border=false&theme=dark) 
