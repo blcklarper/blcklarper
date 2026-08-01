@@ -1,5 +1,5 @@
 # yo im blck
-im a new dev, currently learning C
+im a new dev, currently learning rust
 ## my socials : 
 @lasciato or @sui_dal on discord
 
