@@ -1,7 +1,7 @@
 # yo im blck
 im a new dev, currently learning rust
 ## my socials : 
-@lasciato or @sui_dal on discord
+@bl_eding on discord
 
 ## top languages : 
 ![Top Langs](https://github-readme-stats-three-green-63.vercel.app/api/top-langs/?username=blcklarper&layout=compact&hide_border=false&theme=dark) 
